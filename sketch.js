@@ -63,7 +63,7 @@ function draw() {
   }
 
   if (millis() - time >= 5000) {
-    speed = int(random(10, 20))
+    speed = int(random(5, 10))
   }
 
 }
