@@ -1,7 +1,7 @@
 let img;
 let rs = []
 let time;
-let speed = 10
+let speed = 5
 
 function preload() {
   img = loadImage("artwork.jpg"); // Load the image
